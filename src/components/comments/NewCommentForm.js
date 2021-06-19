@@ -2,7 +2,7 @@ import { useRef, useEffect } from 'react';
 
 import classes from './NewCommentForm.module.css';
 import useHttp from "../../hooks/use-http";
-import {addComment, addQuote} from "../../lib/api";
+import {addComment} from "../../lib/api";
 import LoadingSpinner from "../UI/LoadingSpinner";
 
 const NewCommentForm = (props) => {
