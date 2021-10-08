@@ -28,7 +28,5 @@ node_modules
 
 # firebase related
 .firebase
-.firebaserc
-firebase.json
 
 .eslintcache
