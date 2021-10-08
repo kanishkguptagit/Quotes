@@ -10,6 +10,7 @@ A web application built on react that can add quotes
 5) fetching data from firebase
 6) storing data to firebase
 7) hosted on firebase
+0) implemented CI
 
 
 ## How to use
